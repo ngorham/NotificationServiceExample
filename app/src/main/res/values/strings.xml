@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationServiceExample</string>
+    <string name="button_text">Send Notifications every minute</string>
+    <string name="button_cancel">Cancel Notifications</string>
+</resources>
